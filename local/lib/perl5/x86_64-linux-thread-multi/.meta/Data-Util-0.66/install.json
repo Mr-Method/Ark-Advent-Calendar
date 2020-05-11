@@ -1,0 +1,1 @@
+{"dist":"Data-Util-0.66","target":"Data::Util","pathname":"S/SY/SYOHEX/Data-Util-0.66.tar.gz","version":"0.66","name":"Data::Util","provides":{"Data::Util::PurePerl":{"file":"lib/Data/Util/PurePerl.pm"},"Data::Util":{"file":"lib/Data/Util.pm","version":"0.66"},"Data::Util::Error":{"file":"lib/Data/Util/Error.pm"}}}
