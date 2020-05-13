@@ -9,3 +9,6 @@ requires 'Text::MicroTemplate::DataSection';
 requires 'DBIx::Class';
 requires 'Sub::Identify';
 requires 'DBD::MySQL';
+requires 'GitDDL';
+requires 'Path::Class';
+requires 'GitDDL';
