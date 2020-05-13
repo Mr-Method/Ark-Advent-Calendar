@@ -1,0 +1,22 @@
+=head2 Wed May 13 04:20:20 2020: C<Module> L<DateTime|DateTime>
+
+=over 4
+
+=item *
+
+C<installed into: /home/akipaka/Work/Ark-Advent-Calendar/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.52>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+

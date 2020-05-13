@@ -7,5 +7,5 @@ requires 'String::CamelCase';
 requires 'Text::MicroTemplate::Extended';
 requires 'Text::MicroTemplate::DataSection';
 requires 'DBIx::Class';
-requires 'SQL::Translator';
-
+requires 'Sub::Identify';
+requires 'DBD::MySQL';

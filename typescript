@@ -1,0 +1,761 @@
+スクリプトは 2020年05月13日 14時32分00秒
+ に開始しました]777;notify;Command completed;ls]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[?1034h[akipaka@localhost Ark-Advent-Calendar]$ lscd Ark-Advent-Calendar/ls[K[Klscd Ark-Advent-Calendar/ls[Kgit clone https://github.com/mameponn2580/Ark-Advent-Calendar.git[A[C[C[C[C[C[C[C[C[C[C[C[Cls[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd Ark-Advent-Calendar/ls[K[Kcd script/
+]777;notify;Command completed;cd script/]0;akipaka@localhost:~/Work/Ark-Advent-Calendar/script]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar/script[akipaka@localhost script]$ 
+]777;notify;Command completed;cd script/]0;akipaka@localhost:~/Work/Ark-Advent-Calendar/script]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar/script[akipaka@localhost script]$ 
+]777;notify;Command completed;cd script/]0;akipaka@localhost:~/Work/Ark-Advent-Calendar/script]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar/script[akipaka@localhost script]$ 
+]777;notify;Command completed;cd script/]0;akipaka@localhost:~/Work/Ark-Advent-Calendar/script]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar/script[akipaka@localhost script]$ ls
+[0m[38;5;27mdev[0m
+]777;notify;Command completed;ls]0;akipaka@localhost:~/Work/Ark-Advent-Calendar/script]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar/script[akipaka@localhost script]$ 
+]777;notify;Command completed;ls]0;akipaka@localhost:~/Work/Ark-Advent-Calendar/script]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar/script[akipaka@localhost script]$ 
+]777;notify;Command completed;ls]0;akipaka@localhost:~/Work/Ark-Advent-Calendar/script]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar/script[akipaka@localhost script]$ 
+]777;notify;Command completed;ls]0;akipaka@localhost:~/Work/Ark-Advent-Calendar/script]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar/script[akipaka@localhost script]$ trr[Kee
+.
+└── dev
+    ├── deploy.pl
+    └── skeleton.pl
+
+1 directory, 2 files
+]777;notify;Command completed;tree]0;akipaka@localhost:~/Work/Ark-Advent-Calendar/script]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar/script[akipaka@localhost script]$ cd //[K[K[K..
+bash: cd..: コマンドが見つかりませんでした...
+]777;notify;Command completed;cd..]0;akipaka@localhost:~/Work/Ark-Advent-Calendar/script]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar/script[akipaka@localhost script]$ 
+]777;notify;Command completed;cd..]0;akipaka@localhost:~/Work/Ark-Advent-Calendar/script]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar/script[akipaka@localhost script]$ 
+]777;notify;Command completed;cd..]0;akipaka@localhost:~/Work/Ark-Advent-Calendar/script]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar/script[akipaka@localhost script]$ cd.. d..[1Pd..[C ..
+]777;notify;Command completed;cd ..]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;cd ..]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;cd ..]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;cd ..]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ ls
+Changes        README           cpanfile           [0m[38;5;27mlocal[0m      typescript
+MANIFEST       README.md        cpanfile.snapshot  prod.psgi  [38;5;27mxt[0m
+MANIFEST.SKIP  config.pl        dev.psgi           [38;5;27mscript[0m
+Makefile.PL    config_local.pl  [38;5;27mlib[0m                [38;5;27mt[0m
+]777;notify;Command completed;ls]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;ls]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ lscd ..[1P..treecd.. ..[3Pls[K[akipaka@localhost Ark-Advent-Calendar]$ ls[K[K
+]777;notify;Command completed;ls]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;ls]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;ls]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;ls]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;ls]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;ls]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ ks[K[Kls
+Changes        README           cpanfile           [0m[38;5;27mlocal[0m      typescript
+MANIFEST       README.md        cpanfile.snapshot  prod.psgi  [38;5;27mxt[0m
+MANIFEST.SKIP  config.pl        dev.psgi           [38;5;27mscript[0m
+Makefile.PL    config_local.pl  [38;5;27mlib[0m                [38;5;27mt[0m
+]777;notify;Command completed;ls]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;ls]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;ls]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;ls]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;ls]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ lscd ..[1P..tree[2Plscd script/ls[Kcd Ark-Advent-Calendar/ls[Kcd Ark-Advent-Calendar/ls[Kgit clone https://github.com/mamepon25800/Ark-Advent-Calendar.git[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd Work/ls[Kcd ..[3Plsvi id_rsa.publs[Kcd .ssh [2Pls -la[1Pcd ..ls -la[Kssh-keygen -t rsa -b 2048module-setup --init --flavor-class=Ark aark[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[14Pssh-keygen -t rsa -b 2048
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cmodule-setup --init --flavor-class=Ark aark[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccpanm https://github.com/Konboi/p5-Module-Setup-Flavor-ArkDBIC/archive/master.tar.gz[Amodule-setup --init --flavor-class=Ark ark[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[13Pcpanm LWP::Protocol::https
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chttps://github.com/Konboi/p5-Modulle-Setup-Flavor-ArkDBIC/archive/master.tar.gz[A[C[C[20PModule::Setup
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chttps://github.com/Konboi/p5-Modulle-Setup-Flavor-ArkDBIC/archive/master.tar.gz[A[C[C[20PModule::Setup
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[K[Kcpanm Arkplenv install-cpanmls[Ksudo yum install mariadb-server[2Pyum module list mysql mariadbinfo mysql-community-server[2Pmodule list mysql mariadbinfo mysql-community-server[10Pserver-config-manager --enable mysql57-commmunity[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csudo yum-config-manager --disable mysql56-community[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cyum-config-manager --enable mysql57-comm[6Punity[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[18P info mysql-server
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccommunity-server[2Pmodule list mysql mariadbsudo yum install mariadb-serverls[Kplenv install-cpanm[10Pcpanm Arkl[Kscpanm Module::Setuphttps://github.com/Konboi/p5-Modulle-Setup-Flavor-ArkDBIC/archive/master.tar.gz[A[C[C[13PLWP::Protocol::https
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cmodule-setup --init --flavor-class=Ark aark[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccpanm https://github.com/Konboi/p5-Module-Setup-Flavor-ArkDBIC/archive/master.tar.gz[Amodule-setup --init --flavor-class=Ark ark[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[14Pssh-keygen -t rsa -b 2048
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[K -la[1Pcd ..ls -lacd .ssh ls[Kvi id_rsa.publs[Kcd ..[3Plscd Work/ls[Kgit clone https://github.com/mamepon25800/Ark-Advent-Calendar.git[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd Ark-Advent-Calendar/ls[Kcd script/ls[Ktreecd.. ..[3Pls[K
+]777;notify;Command completed;ls]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;ls]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;ls]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;ls]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;ls]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;ls]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ ls
+Changes        README           cpanfile           [0m[38;5;27mlocal[0m      typescript
+MANIFEST       README.md        cpanfile.snapshot  prod.psgi  [38;5;27mxt[0m
+MANIFEST.SKIP  config.pl        dev.psgi           [38;5;27mscript[0m
+Makefile.PL    config_local.pl  [38;5;27mlib[0m                [38;5;27mt[0m
+]777;notify;Command completed;ls]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;ls]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;ls]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;ls]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;ls]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;ls]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ carton exec perl deploy.pl/deploy.pls/deploy.plc/deploy.plr/deploy.pli/deploy.plp/deploy.plt/deploy.pl[C[Cdeploy.pledeploy.plvdeploy.pl/deploy.pl
+Can't locate Sub/Identify.pm in @INC (you may need to install the Sub::Identify module) (@INC contains: lib /home/akipaka/Work/Ark-Advent-Calendar/local/lib/perl5/5.20.3/x86_64-linux /home/akipaka/Work/Ark-Advent-Calendar/local/lib/perl5/5.20.3 /home/akipaka/Work/Ark-Advent-Calendar/local/lib/perl5/x86_64-linux /home/akipaka/Work/Ark-Advent-Calendar/local/lib/perl5 /home/akipaka/.plenv/versions/5.20.3/lib/perl5/site_perl/5.20.3/x86_64-linux /home/akipaka/.plenv/versions/5.20.3/lib/perl5/site_perl/5.20.3 /home/akipaka/.plenv/versions/5.20.3/lib/perl5/5.20.3/x86_64-linux /home/akipaka/.plenv/versions/5.20.3/lib/perl5/5.20.3 .) at /home/akipaka/Work/Ark-Advent-Calendar/local/lib/perl5/namespace/autoclean.pm line 200.
+Compilation failed in require at /home/akipaka/Work/Ark-Advent-Calendar/local/lib/perl5/x86_64-linux/DateTime/Duration.pm line 12.
+BEGIN failed--compilation aborted at /home/akipaka/Work/Ark-Advent-Calendar/local/lib/perl5/x86_64-linux/DateTime/Duration.pm line 12.
+Compilation failed in require at /home/akipaka/Work/Ark-Advent-Calendar/local/lib/perl5/x86_64-linux/DateTime.pm line 14.
+BEGIN failed--compilation aborted at /home/akipaka/Work/Ark-Advent-Calendar/local/lib/perl5/x86_64-linux/DateTime.pm line 14.
+Compilation failed in require at lib/Jobeet/Schema.pm line 6.
+BEGIN failed--compilation aborted at lib/Jobeet/Schema.pm line 6.
+Compilation failed in require at script/dev/deploy.pl line 7.
+BEGIN failed--compilation aborted at script/dev/deploy.pl line 7.
+]777;notify;Command completed;carton exec perl script/dev/deploy.pl]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;carton exec perl script/dev/deploy.pl]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;carton exec perl script/dev/deploy.pl]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;carton exec perl script/dev/deploy.pl]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;carton exec perl script/dev/deploy.pl]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ ls[K[Ks[Kls
+Changes        README           cpanfile           [0m[38;5;27mlocal[0m      typescript
+MANIFEST       README.md        cpanfile.snapshot  prod.psgi  [38;5;27mxt[0m
+MANIFEST.SKIP  config.pl        dev.psgi           [38;5;27mscript[0m
+Makefile.PL    config_local.pl  [38;5;27mlib[0m                [38;5;27mt[0m
+]777;notify;Command completed;ls]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;ls]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;ls]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;ls]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ cd o[Klocal/
+]777;notify;Command completed;cd local/]0;akipaka@localhost:~/Work/Ark-Advent-Calendar/local]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar/local[akipaka@localhost local]$ 
+]777;notify;Command completed;cd local/]0;akipaka@localhost:~/Work/Ark-Advent-Calendar/local]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar/local[akipaka@localhost local]$ 
+]777;notify;Command completed;cd local/]0;akipaka@localhost:~/Work/Ark-Advent-Calendar/local]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar/local[akipaka@localhost local]$ 
+]777;notify;Command completed;cd local/]0;akipaka@localhost:~/Work/Ark-Advent-Calendar/local]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar/local[akipaka@localhost local]$ ls
+[0m[38;5;27mbin[0m  [38;5;27mcache[0m  [38;5;27mlib[0m
+]777;notify;Command completed;ls]0;akipaka@localhost:~/Work/Ark-Advent-Calendar/local]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar/local[akipaka@localhost local]$ 
+]777;notify;Command completed;ls]0;akipaka@localhost:~/Work/Ark-Advent-Calendar/local]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar/local[akipaka@localhost local]$ 
+]777;notify;Command completed;ls]0;akipaka@localhost:~/Work/Ark-Advent-Calendar/local]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar/local[akipaka@localhost local]$ cd bin/
+]777;notify;Command completed;cd bin/]0;akipaka@localhost:~/Work/Ark-Advent-Calendar/local/bin]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar/local/bin[akipaka@localhost bin]$ 
+]777;notify;Command completed;cd bin/]0;akipaka@localhost:~/Work/Ark-Advent-Calendar/local/bin]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar/local/bin[akipaka@localhost bin]$ 
+]777;notify;Command completed;cd bin/]0;akipaka@localhost:~/Work/Ark-Advent-Calendar/local/bin]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar/local/bin[akipaka@localhost bin]$ 
+]777;notify;Command completed;cd bin/]0;akipaka@localhost:~/Work/Ark-Advent-Calendar/local/bin]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar/local/bin[akipaka@localhost bin]$ ls
+[0m[38;5;34mconfig_data[0m     [38;5;34mdbiprof[0m                  [38;5;34msqlt[0m           [38;5;34msqlt-dumper[0m
+[38;5;34mcpanel_json_xs[0m  [38;5;34mdbiproxy[0m                 [38;5;34msqlt-diagram[0m   [38;5;34msqlt-graph[0m
+[38;5;34mdbicadmin[0m       [38;5;34mpackage-stash-conflicts[0m  [38;5;34msqlt-diff[0m
+[38;5;34mdbilogstrip[0m     [38;5;34mplackup[0m                  [38;5;34msqlt-diff-old[0m
+]777;notify;Command completed;ls]0;akipaka@localhost:~/Work/Ark-Advent-Calendar/local/bin]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar/local/bin[akipaka@localhost bin]$ 
+]777;notify;Command completed;ls]0;akipaka@localhost:~/Work/Ark-Advent-Calendar/local/bin]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar/local/bin[akipaka@localhost bin]$ cd ...[K
+]777;notify;Command completed;cd ..]0;akipaka@localhost:~/Work/Ark-Advent-Calendar/local]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar/local[akipaka@localhost local]$ 
+]777;notify;Command completed;cd ..]0;akipaka@localhost:~/Work/Ark-Advent-Calendar/local]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar/local[akipaka@localhost local]$ 
+]777;notify;Command completed;cd ..]0;akipaka@localhost:~/Work/Ark-Advent-Calendar/local]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar/local[akipaka@localhost local]$ 
+]777;notify;Command completed;cd ..]0;akipaka@localhost:~/Work/Ark-Advent-Calendar/local]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar/local[akipaka@localhost local]$ ls
+[0m[38;5;27mbin[0m  [38;5;27mcache[0m  [38;5;27mlib[0m
+]777;notify;Command completed;ls]0;akipaka@localhost:~/Work/Ark-Advent-Calendar/local]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar/local[akipaka@localhost local]$ 
+]777;notify;Command completed;ls]0;akipaka@localhost:~/Work/Ark-Advent-Calendar/local]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar/local[akipaka@localhost local]$ 
+]777;notify;Command completed;ls]0;akipaka@localhost:~/Work/Ark-Advent-Calendar/local]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar/local[akipaka@localhost local]$ cpanm I[KSub::Identify
+--> Working on Sub::Identify
+Fetching http://www.cpan.org/authors/id/R/RG/RGARCIA/Sub-Identify-0.14.tar.gz ... OK
+Configuring Sub-Identify-0.14 ... OK
+Building and testing Sub-Identify-0.14 ... OK
+Successfully installed Sub-Identify-0.14
+1 distribution installed
+]777;notify;Command completed;cpanm Sub::Identify]0;akipaka@localhost:~/Work/Ark-Advent-Calendar/local]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar/local[akipaka@localhost local]$ cpanm Sub::Identifyls[Kcd ..[3Plscd bin/ls[Kcd local/ls[Kcarton exec perl script/dev/deploy.pl[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Kcarton exec perl script/dev/deploy.pl
+Can't open perl script "script/dev/deploy.pl": そのようなファイルやディレクトリはありません
+]777;notify;Command completed;carton exec perl script/dev/deploy.pl]0;akipaka@localhost:~/Work/Ark-Advent-Calendar/local]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar/local[akipaka@localhost local]$ carton exec perl script/dev/deploy.pl[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kls
+[0m[38;5;27mbin[0m  [38;5;27mcache[0m  [38;5;27mlib[0m
+]777;notify;Command completed;ls]0;akipaka@localhost:~/Work/Ark-Advent-Calendar/local]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar/local[akipaka@localhost local]$ cd ..
+]777;notify;Command completed;cd ..]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;cd ..]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;cd ..]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;cd ..]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ ls
+Changes        README           cpanfile           [0m[38;5;27mlocal[0m      typescript
+MANIFEST       README.md        cpanfile.snapshot  prod.psgi  [38;5;27mxt[0m
+MANIFEST.SKIP  config.pl        dev.psgi           [38;5;27mscript[0m
+Makefile.PL    config_local.pl  [38;5;27mlib[0m                [38;5;27mt[0m
+]777;notify;Command completed;ls]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ lscd ..[3Plscarton exec perl script/dev/deploy.pl
+{UNKNOWN}: Can't locate Sub/Name.pm in @INC (you may need to install the Sub::Name module) (@INC contains: lib /home/akipaka/Work/Ark-Advent-Calendar/local/lib/perl5/5.20.3/x86_64-linux /home/akipaka/Work/Ark-Advent-Calendar/local/lib/perl5/5.20.3 /home/akipaka/Work/Ark-Advent-Calendar/local/lib/perl5/x86_64-linux /home/akipaka/Work/Ark-Advent-Calendar/local/lib/perl5 /home/akipaka/.plenv/versions/5.20.3/lib/perl5/site_perl/5.20.3/x86_64-linux /home/akipaka/.plenv/versions/5.20.3/lib/perl5/site_perl/5.20.3 /home/akipaka/.plenv/versions/5.20.3/lib/perl5/5.20.3/x86_64-linux /home/akipaka/.plenv/versions/5.20.3/lib/perl5/5.20.3 .) at /home/akipaka/Work/Ark-Advent-Calendar/local/lib/perl5/DBIx/Class/Relationship/ManyToMany.pm line 8.
+BEGIN failed--compilation aborted at /home/akipaka/Work/Ark-Advent-Calendar/local/lib/perl5/DBIx/Class/Relationship/ManyToMany.pm line 8.
+Compilation failed in require at /home/akipaka/Work/Ark-Advent-Calendar/local/lib/perl5/Class/C3/Componentised.pm line 146.
+ at /home/akipaka/.plenv/versions/5.20.3/lib/perl5/5.20.3/parent.pm line 20.
+Compilation failed in require at /home/akipaka/Work/Ark-Advent-Calendar/local/lib/perl5/Class/C3/Componentised.pm line 146.
+ at /home/akipaka/.plenv/versions/5.20.3/lib/perl5/5.20.3/parent.pm line 20.
+Compilation failed in require at /home/akipaka/Work/Ark-Advent-Calendar/local/lib/perl5/Class/C3/Componentised.pm line 146.
+ at /home/akipaka/.plenv/versions/5.20.3/lib/perl5/5.20.3/parent.pm line 20.
+Compilation failed in require at /home/akipaka/Work/Ark-Advent-Calendar/local/lib/perl5/Class/C3/Componentised.pm line 146.
+ at /home/akipaka/.plenv/versions/5.20.3/lib/perl5/5.20.3/parent.pm line 20.
+Compilation failed in require at /home/akipaka/.plenv/versions/5.20.3/lib/perl5/5.20.3/parent.pm line 20.
+BEGIN failed--compilation aborted at lib/Jobeet/Schema/Result/CategoryAffiliate.pm line 5.
+Compilation failed in require at /home/akipaka/Work/Ark-Advent-Calendar/local/lib/perl5/Class/C3/Componentised.pm line 146. at /home/akipaka/Work/Ark-Advent-Calendar/local/lib/perl5/Class/C3/Componentised.pm line 151
+Compilation failed in require at script/dev/deploy.pl line 7.
+BEGIN failed--compilation aborted at script/dev/deploy.pl line 7.
+]777;notify;Command completed;carton exec perl script/dev/deploy.pl]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;carton exec perl script/dev/deploy.pl]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;carton exec perl script/dev/deploy.pl]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;carton exec perl script/dev/deploy.pl]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;carton exec perl script/dev/deploy.pl]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;carton exec perl script/dev/deploy.pl]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;carton exec perl script/dev/deploy.pl]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;carton exec perl script/dev/deploy.pl]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;carton exec perl script/dev/deploy.pl]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ Sub::NamecSub::NamepSub::NameaSub::NamenSub::NamemSub::Name Sub::Name
+--> Working on Sub::Name
+Fetching http://www.cpan.org/authors/id/E/ET/ETHER/Sub-Name-0.26.tar.gz ... OK
+Configuring Sub-Name-0.26 ... OK
+Building and testing Sub-Name-0.26 ... OK
+Successfully installed Sub-Name-0.26
+1 distribution installed
+]777;notify;Command completed;cpanm Sub::Name]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ cpanm Sub::Namearton exec perl script/dev/deploy.plls[Kcd ..[3Plscarton exec perl script/dev/deploy.pl[18Ppanm Sub::Identifyarton exec perl script/dev/deploy.plls[Kcarton exec perl script/dev/deploy.pl
+Can't locate DBI/Const/GetInfoReturn.pm in @INC (you may need to install the DBI::Const::GetInfoReturn module) (@INC contains: lib /home/akipaka/Work/Ark-Advent-Calendar/local/lib/perl5/5.20.3/x86_64-linux /home/akipaka/Work/Ark-Advent-Calendar/local/lib/perl5/5.20.3 /home/akipaka/Work/Ark-Advent-Calendar/local/lib/perl5/x86_64-linux /home/akipaka/Work/Ark-Advent-Calendar/local/lib/perl5 /home/akipaka/.plenv/versions/5.20.3/lib/perl5/site_perl/5.20.3/x86_64-linux /home/akipaka/.plenv/versions/5.20.3/lib/perl5/site_perl/5.20.3 /home/akipaka/.plenv/versions/5.20.3/lib/perl5/5.20.3/x86_64-linux /home/akipaka/.plenv/versions/5.20.3/lib/perl5/5.20.3 .) at /home/akipaka/Work/Ark-Advent-Calendar/local/lib/perl5/DBIx/Class/Storage/DBI.pm line 1179.
+]777;notify;Command completed;carton exec perl script/dev/deploy.pl]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ carton exec perl script/dev/deploy.pl[22Ppanm Sub::Namearton exec perl script/dev/deploy.plls[Kcarton exec perl script/dev/deploy.pl[22Ppanm Sub::Namearton exec perl script/dev/deploy.pl[Kcarton exec perl script/dev/deploy.pl[Kcarton exec perl script/dev/deploy.pl[22Ppanm Sub::Name[K[K[K[K[K[K[K[K[Kthe DBI::Const::GetInfoReturn
+--> Working on the
+Fetching http://www.cpan.org/authors/id/I/IN/INGY/the-0.15.tar.gz ... OK
+Configuring the-0.15 ... OK
+Building and testing the-0.15 ... OK
+Successfully installed the-0.15
+--> Working on DBI::Const::GetInfoReturn
+Fetching http://www.cpan.org/authors/id/T/TI/TIMB/DBI-1.643.tar.gz ... OK
+Configuring DBI-1.643 ... OK
+Building and testing DBI-1.643 ... OK
+Successfully installed DBI-1.643
+2 distributions installed
+]777;notify;Command completed;cpanm the DBI::Const::GetInfoReturn]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ cpanm the DBI::Const::GetInfoReturnarton exec perl script/dev/deploy.pl
+DBIx::Class::Storage::DBI::_warn_undetermined_driver(): This version of DBIC does not yet seem to supply a driver for your particular RDBMS and/or connection method ('MySQL'). While we will attempt to continue anyway, the results are likely to be underwhelming. Please upgrade DBIC, and if this message does not go away, file a bugreport including the following info:
+{
+  DBD => "DBD::MySQL",
+  DBD_VER => undef,
+  DBIC_DRIVER => "DBIx::Class::Storage::DBI",
+  DBIC_DSN => "dbi:MySQL:./test.db",
+  DBIC_VER => "0.082841",
+  DBI_VER => "1.643"
+}
+DBIx::Class::Storage::DBI::catch {...} (): DBI Connection failed: install_driver(MySQL) failed: Can't locate DBD/MySQL.pm in @INC (you may need to install the DBD::MySQL module) (@INC contains: lib /home/akipaka/Work/Ark-Advent-Calendar/local/lib/perl5/5.20.3/x86_64-linux /home/akipaka/Work/Ark-Advent-Calendar/local/lib/perl5/5.20.3 /home/akipaka/Work/Ark-Advent-Calendar/local/lib/perl5/x86_64-linux /home/akipaka/Work/Ark-Advent-Calendar/local/lib/perl5 /home/akipaka/.plenv/versions/5.20.3/lib/perl5/site_perl/5.20.3/x86_64-linux /home/akipaka/.plenv/versions/5.20.3/lib/perl5/site_perl/5.20.3 /home/akipaka/.plenv/versions/5.20.3/lib/perl5/5.20.3/x86_64-linux /home/akipaka/.plenv/versions/5.20.3/lib/perl5/5.20.3 .) at (eval 364) line 3.
+Perhaps the DBD::MySQL perl module hasn't been fully installed,
+or perhaps the capitalisation of 'MySQL' isn't right.
+Available drivers: DBM, ExampleP, File, Gofer, Mem, Proxy, Sponge.
+ at /home/akipaka/Work/Ark-Advent-Calendar/local/lib/perl5/DBIx/Class/Storage/DBI.pm line 1517. at script/dev/deploy.pl line 9
+]777;notify;Command completed;carton exec perl script/dev/deploy.pl]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ carton exec perl script/dev/deploy.pl[Kcarton exec perl script/dev/deploy.pl[2Ppanm the DBI::Const::GetInfoReturnarton exec perl script/dev/deploy.pl[22Ppanm Sub::Namearton exec perl script/dev/deploy.pl[2Ppanm the DBI::Const::GetInfoReturnarton exec perl script/dev/deploy.pl[Kcarton exec perl script/dev/deploy.pl[KDBD::MySQL module[1@c[1@p[1@a[1@n[1@m[1@ 
+! Finding DBD::MySQL on cpanmetadb failed.
+! Finding DBD::MySQL () on mirror http://www.cpan.org failed.
+! Couldn't find module or a distribution DBD::MySQL
+--> Working on module
+Fetching http://www.cpan.org/authors/id/A/AD/ADAMK/Devel-Leak-Module-0.02.tar.gz ... OK
+Configuring Devel-Leak-Module-0.02 ... OK
+==> Found dependencies: Test::Script
+--> Working on Test::Script
+Fetching http://www.cpan.org/authors/id/P/PL/PLICEASE/Test-Script-1.26.tar.gz ... OK
+Configuring Test-Script-1.26 ... OK
+==> Found dependencies: Test2::V0, Probe::Perl
+--> Working on Test2::V0
+Fetching http://www.cpan.org/authors/id/E/EX/EXODIST/Test2-Suite-0.000129.tar.gz ... OK
+Configuring Test2-Suite-0.000129 ... OK
+==> Found dependencies: Term::Table, Importer, Sub::Info
+--> Working on Term::Table
+Fetching http://www.cpan.org/authors/id/E/EX/EXODIST/Term-Table-0.015.tar.gz ... OK
+Configuring Term-Table-0.015 ... OK
+==> Found dependencies: Importer
+--> Working on Importer
+Fetching http://www.cpan.org/authors/id/E/EX/EXODIST/Importer-0.025.tar.gz ... OK
+Configuring Importer-0.025 ... OK
+Building and testing Importer-0.025 ... OK
+Successfully installed Importer-0.025
+Building and testing Term-Table-0.015 ... OK
+Successfully installed Term-Table-0.015
+--> Working on Sub::Info
+Fetching http://www.cpan.org/authors/id/E/EX/EXODIST/Sub-Info-0.002.tar.gz ... OK
+Configuring Sub-Info-0.002 ... OK
+Building and testing Sub-Info-0.002 ... OK
+Successfully installed Sub-Info-0.002
+Building and testing Test2-Suite-0.000129 ... OK
+Successfully installed Test2-Suite-0.000129
+--> Working on Probe::Perl
+Fetching http://www.cpan.org/authors/id/K/KW/KWILLIAMS/Probe-Perl-0.03.tar.gz ... OK
+Configuring Probe-Perl-0.03 ... OK
+Building and testing Probe-Perl-0.03 ... OK
+Successfully installed Probe-Perl-0.03
+Building and testing Test-Script-1.26 ... OK
+Successfully installed Test-Script-1.26
+Building and testing Devel-Leak-Module-0.02 ... OK
+Successfully installed Devel-Leak-Module-0.02
+7 distributions installed
+]777;notify;Command completed;cpanm DBD::MySQL module]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ cpanm DBD::MySQL modulearton exec perl script/dev/deploy.pl[2Ppanm the DBI::Const::GetInfoReturnarton exec perl script/dev/deploy.pl[14Ppanm DBD::MySQL module[Kcpanm DBD::MySQL modulearton exec perl script/dev/deploy.pl[2Ppanm the DBI::Const::GetInfoReturnarton exec perl script/dev/deploy.pl[22Ppanm Sub::Namearton exec perl script/dev/deploy.plls[Kcd ..[3Plscd ..[3Plscarton exec perl script/dev/deploy.pl[22Ppanm Sub::Namearton exec perl script/dev/deploy.pl[2Ppanm the DBI::Const::GetInfoReturnarton exec perl script/dev/deploy.pl[14Ppanm DBD::MySQL module[Kcpanm DBD::MySQL modulearton exec perl script/dev/deploy.pl[14Ppanm DBD::MySQL modulearton exec perl script/dev/deploy.pl
+DBIx::Class::Storage::DBI::_warn_undetermined_driver(): This version of DBIC does not yet seem to supply a driver for your particular RDBMS and/or connection method ('MySQL'). While we will attempt to continue anyway, the results are likely to be underwhelming. Please upgrade DBIC, and if this message does not go away, file a bugreport including the following info:
+{
+  DBD => "DBD::MySQL",
+  DBD_VER => undef,
+  DBIC_DRIVER => "DBIx::Class::Storage::DBI",
+  DBIC_DSN => "dbi:MySQL:./test.db",
+  DBIC_VER => "0.082841",
+  DBI_VER => "1.643"
+}
+DBIx::Class::Storage::DBI::catch {...} (): DBI Connection failed: install_driver(MySQL) failed: Can't locate DBD/MySQL.pm in @INC (you may need to install the DBD::MySQL module) (@INC contains: lib /home/akipaka/Work/Ark-Advent-Calendar/local/lib/perl5/5.20.3/x86_64-linux /home/akipaka/Work/Ark-Advent-Calendar/local/lib/perl5/5.20.3 /home/akipaka/Work/Ark-Advent-Calendar/local/lib/perl5/x86_64-linux /home/akipaka/Work/Ark-Advent-Calendar/local/lib/perl5 /home/akipaka/.plenv/versions/5.20.3/lib/perl5/site_perl/5.20.3/x86_64-linux /home/akipaka/.plenv/versions/5.20.3/lib/perl5/site_perl/5.20.3 /home/akipaka/.plenv/versions/5.20.3/lib/perl5/5.20.3/x86_64-linux /home/akipaka/.plenv/versions/5.20.3/lib/perl5/5.20.3 .) at (eval 364) line 3.
+Perhaps the DBD::MySQL perl module hasn't been fully installed,
+or perhaps the capitalisation of 'MySQL' isn't right.
+Available drivers: DBM, ExampleP, File, Gofer, Mem, Proxy, Sponge.
+ at /home/akipaka/Work/Ark-Advent-Calendar/local/lib/perl5/DBIx/Class/Storage/DBI.pm line 1517. at script/dev/deploy.pl line 9
+]777;notify;Command completed;carton exec perl script/dev/deploy.pl]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ carton exec perl script/dev/deploy.pl[Kcarton exec perl script/dev/deploy.pl[14Ppanm DBD::MySQL modulearton exec perl script/dev/deploy.pl[14Ppanm DBD::MySQL modulearton exec perl script/dev/deploy.pl[Kcarton exec perl script/dev/deploy.pl[14Ppanm DBD::MySQL module
+! Finding DBD::MySQL on cpanmetadb failed.
+! Finding DBD::MySQL () on mirror http://www.cpan.org failed.
+! Couldn't find module or a distribution DBD::MySQL
+--> Working on module
+Fetching http://www.cpan.org/authors/id/A/AD/ADAMK/Devel-Leak-Module-0.02.tar.gz ... OK
+Configuring Devel-Leak-Module-0.02 ... OK
+Building and testing Devel-Leak-Module-0.02 ... OK
+Successfully installed Devel-Leak-Module-0.02
+1 distribution installed
+]777;notify;Command completed;cpanm DBD::MySQL module]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ cpanm DBD::MySQL modulearton exec perl script/dev/deploy.pl[14Ppanm DBD::MySQL modulearton exec perl script/dev/deploy.pl[2Ppanm the DBI::Const::GetInfoReturnarton exec perl script/dev/deploy.pl[22Ppanm Sub::Namearton exec perl script/dev/deploy.plls[Kcd ..[3Plscarton exec perl script/dev/deploy.pl[22Ppanm Sub::Namearton exec perl script/dev/deploy.pl[2Ppanm the DBI::Const::GetInfoReturnarton exec perl script/dev/deploy.pl[14Ppanm DBD::MySQL modulearton exec perl script/dev/deploy.pl[14Ppanm DBD::MySQL module[Kcpanm DBD::MySQL modulearton exec perl script/dev/deploy.pl[14Ppanm DBD::MySQL modulearton exec perl script/dev/deploy.pl[2Ppanm the DBI::Const::GetInfoReturnarton exec perl script/dev/deploy.pl[22Ppanm Sub::Namearton exec perl script/dev/deploy.plls[Kcd ..[3Plscarton exec perl script/dev/deploy.plls[Kcd ..[3Plscarton exec perl script/dev/deploy.pl[22Ppanm Sub::Namearton exec perl script/dev/deploy.pl[2Ppanm the DBI::Const::GetInfoReturnarton exec perl script/dev/deploy.pl[22Ppanm Sub::Namearton exec perl script/dev/deploy.pl[2Ppanm the DBI::Const::GetInfoReturnarton exec perl script/dev/deploy.pl[14Ppanm DBD::MySQL modulearton exec perl script/dev/deploy.pl[14Ppanm DBD::MySQL module[Kcpanm DBD::MySQL module
+! Finding DBD::MySQL on cpanmetadb failed.
+! Finding DBD::MySQL () on mirror http://www.cpan.org failed.
+! Couldn't find module or a distribution DBD::MySQL
+--> Working on module
+Fetching http://www.cpan.org/authors/id/A/AD/ADAMK/Devel-Leak-Module-0.02.tar.gz ... OK
+Configuring Devel-Leak-Module-0.02 ... OK
+Building and testing Devel-Leak-Module-0.02 ... OK
+Successfully installed Devel-Leak-Module-0.02
+1 distribution installed
+]777;notify;Command completed;cpanm DBD::MySQL module]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ cpanm DBD::MySQL modulearton exec perl script/dev/deploy.pl[14Ppanm DBD::MySQL modulearton exec perl script/dev/deploy.pl[14Ppanm DBD::MySQL modulearton exec perl script/dev/deploy.pl
+DBIx::Class::Storage::DBI::_warn_undetermined_driver(): This version of DBIC does not yet seem to supply a driver for your particular RDBMS and/or connection method ('MySQL'). While we will attempt to continue anyway, the results are likely to be underwhelming. Please upgrade DBIC, and if this message does not go away, file a bugreport including the following info:
+{
+  DBD => "DBD::MySQL",
+  DBD_VER => undef,
+  DBIC_DRIVER => "DBIx::Class::Storage::DBI",
+  DBIC_DSN => "dbi:MySQL:./test.db",
+  DBIC_VER => "0.082841",
+  DBI_VER => "1.643"
+}
+DBIx::Class::Storage::DBI::catch {...} (): DBI Connection failed: install_driver(MySQL) failed: Can't locate DBD/MySQL.pm in @INC (you may need to install the DBD::MySQL module) (@INC contains: lib /home/akipaka/Work/Ark-Advent-Calendar/local/lib/perl5/5.20.3/x86_64-linux /home/akipaka/Work/Ark-Advent-Calendar/local/lib/perl5/5.20.3 /home/akipaka/Work/Ark-Advent-Calendar/local/lib/perl5/x86_64-linux /home/akipaka/Work/Ark-Advent-Calendar/local/lib/perl5 /home/akipaka/.plenv/versions/5.20.3/lib/perl5/site_perl/5.20.3/x86_64-linux /home/akipaka/.plenv/versions/5.20.3/lib/perl5/site_perl/5.20.3 /home/akipaka/.plenv/versions/5.20.3/lib/perl5/5.20.3/x86_64-linux /home/akipaka/.plenv/versions/5.20.3/lib/perl5/5.20.3 .) at (eval 364) line 3.
+Perhaps the DBD::MySQL perl module hasn't been fully installed,
+or perhaps the capitalisation of 'MySQL' isn't right.
+Available drivers: DBM, ExampleP, File, Gofer, Mem, Proxy, Sponge.
+ at /home/akipaka/Work/Ark-Advent-Calendar/local/lib/perl5/DBIx/Class/Storage/DBI.pm line 1517. at script/dev/deploy.pl line 9
+]777;notify;Command completed;carton exec perl script/dev/deploy.pl]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ carton exec perl script/dev/deploy.pl[14Ppanm DBD::MySQL module
+! Finding DBD::MySQL on cpanmetadb failed.
+! Finding DBD::MySQL () on mirror http://www.cpan.org failed.
+! Couldn't find module or a distribution DBD::MySQL
+--> Working on module
+Fetching http://www.cpan.org/authors/id/A/AD/ADAMK/Devel-Leak-Module-0.02.tar.gz ... OK
+Configuring Devel-Leak-Module-0.02 ... OK
+Building and testing Devel-Leak-Module-0.02 ... OK
+Successfully installed Devel-Leak-Module-0.02
+1 distribution installed
+]777;notify;Command completed;cpanm DBD::MySQL module]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ cpanm DBD::MySQL modulearton exec perl script/dev/deploy.pl[14Ppanm DBD::MySQL modulearton exec perl script/dev/deploy.pl[14Ppanm DBD::MySQL module[Kcpanm DBD::MySQL modulearton exec perl script/dev/deploy.pl
+DBIx::Class::Storage::DBI::_warn_undetermined_driver(): This version of DBIC does not yet seem to supply a driver for your particular RDBMS and/or connection method ('MySQL'). While we will attempt to continue anyway, the results are likely to be underwhelming. Please upgrade DBIC, and if this message does not go away, file a bugreport including the following info:
+{
+  DBD => "DBD::MySQL",
+  DBD_VER => undef,
+  DBIC_DRIVER => "DBIx::Class::Storage::DBI",
+  DBIC_DSN => "dbi:MySQL:./test.db",
+  DBIC_VER => "0.082841",
+  DBI_VER => "1.643"
+}
+DBIx::Class::Storage::DBI::catch {...} (): DBI Connection failed: install_driver(MySQL) failed: Can't locate DBD/MySQL.pm in @INC (you may need to install the DBD::MySQL module) (@INC contains: lib /home/akipaka/Work/Ark-Advent-Calendar/local/lib/perl5/5.20.3/x86_64-linux /home/akipaka/Work/Ark-Advent-Calendar/local/lib/perl5/5.20.3 /home/akipaka/Work/Ark-Advent-Calendar/local/lib/perl5/x86_64-linux /home/akipaka/Work/Ark-Advent-Calendar/local/lib/perl5 /home/akipaka/.plenv/versions/5.20.3/lib/perl5/site_perl/5.20.3/x86_64-linux /home/akipaka/.plenv/versions/5.20.3/lib/perl5/site_perl/5.20.3 /home/akipaka/.plenv/versions/5.20.3/lib/perl5/5.20.3/x86_64-linux /home/akipaka/.plenv/versions/5.20.3/lib/perl5/5.20.3 .) at (eval 364) line 3.
+Perhaps the DBD::MySQL perl module hasn't been fully installed,
+or perhaps the capitalisation of 'MySQL' isn't right.
+Available drivers: DBM, ExampleP, File, Gofer, Mem, Proxy, Sponge.
+ at /home/akipaka/Work/Ark-Advent-Calendar/local/lib/perl5/DBIx/Class/Storage/DBI.pm line 1517. at script/dev/deploy.pl line 9
+]777;notify;Command completed;carton exec perl script/dev/deploy.pl]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ carton exec perl script/dev/deploy.pl
+DBIx::Class::Storage::DBI::catch {...} (): DBI Connection failed: install_driver(mysql) failed: Can't locate DBD/mysql.pm in @INC (you may need to install the DBD::mysql module) (@INC contains: lib /home/akipaka/Work/Ark-Advent-Calendar/local/lib/perl5/5.20.3/x86_64-linux /home/akipaka/Work/Ark-Advent-Calendar/local/lib/perl5/5.20.3 /home/akipaka/Work/Ark-Advent-Calendar/local/lib/perl5/x86_64-linux /home/akipaka/Work/Ark-Advent-Calendar/local/lib/perl5 /home/akipaka/.plenv/versions/5.20.3/lib/perl5/site_perl/5.20.3/x86_64-linux /home/akipaka/.plenv/versions/5.20.3/lib/perl5/site_perl/5.20.3 /home/akipaka/.plenv/versions/5.20.3/lib/perl5/5.20.3/x86_64-linux /home/akipaka/.plenv/versions/5.20.3/lib/perl5/5.20.3 .) at (eval 335) line 3.
+Perhaps the DBD::mysql perl module hasn't been fully installed,
+or perhaps the capitalisation of 'mysql' isn't right.
+Available drivers: DBM, ExampleP, File, Gofer, Mem, Proxy, Sponge.
+ at /home/akipaka/Work/Ark-Advent-Calendar/local/lib/perl5/DBIx/Class/Storage/DBI.pm line 1517. at script/dev/deploy.pl line 9
+]777;notify;Command completed;carton exec perl script/dev/deploy.pl]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ [K[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;carton exec perl script/dev/deploy.pl]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;carton exec perl script/dev/deploy.pl]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;carton exec perl script/dev/deploy.pl]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;carton exec perl script/dev/deploy.pl]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;carton exec perl script/dev/deploy.pl]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;carton exec perl script/dev/deploy.pl]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;carton exec perl script/dev/deploy.pl]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;carton exec perl script/dev/deploy.pl]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;carton exec perl script/dev/deploy.pl]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;carton exec perl script/dev/deploy.pl]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;carton exec perl script/dev/deploy.pl]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;carton exec perl script/dev/deploy.pl]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;carton exec perl script/dev/deploy.pl]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;carton exec perl script/dev/deploy.pl]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;carton exec perl script/dev/deploy.pl]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;carton exec perl script/dev/deploy.pl]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;carton exec perl script/dev/deploy.pl]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;carton exec perl script/dev/deploy.pl]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;carton exec perl script/dev/deploy.pl]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;carton exec perl script/dev/deploy.pl]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;carton exec perl script/dev/deploy.pl]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;carton exec perl script/dev/deploy.pl]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;carton exec perl script/dev/deploy.pl]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;carton exec perl script/dev/deploy.pl]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;carton exec perl script/dev/deploy.pl]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;carton exec perl script/dev/deploy.pl]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;carton exec perl script/dev/deploy.pl]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;carton exec perl script/dev/deploy.pl]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;carton exec perl script/dev/deploy.pl]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;carton exec perl script/dev/deploy.pl]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;carton exec perl script/dev/deploy.pl]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;carton exec perl script/dev/deploy.pl]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;carton exec perl script/dev/deploy.pl]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;carton exec perl script/dev/deploy.pl]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ carton exec perl script/dev/deploy.pl
+DBIx::Class::Storage::DBI::_warn_undetermined_driver(): This version of DBIC does not yet seem to supply a driver for your particular RDBMS and/or connection method ('Mysql'). While we will attempt to continue anyway, the results are likely to be underwhelming. Please upgrade DBIC, and if this message does not go away, file a bugreport including the following info:
+{
+  DBD => "DBD::Mysql",
+  DBD_VER => undef,
+  DBIC_DRIVER => "DBIx::Class::Storage::DBI",
+  DBIC_DSN => "dbi:Mysql:./test.db",
+  DBIC_VER => "0.082841",
+  DBI_VER => "1.643"
+}
+DBIx::Class::Storage::DBI::catch {...} (): DBI Connection failed: install_driver(Mysql) failed: Can't locate DBD/Mysql.pm in @INC (you may need to install the DBD::Mysql module) (@INC contains: lib /home/akipaka/Work/Ark-Advent-Calendar/local/lib/perl5/5.20.3/x86_64-linux /home/akipaka/Work/Ark-Advent-Calendar/local/lib/perl5/5.20.3 /home/akipaka/Work/Ark-Advent-Calendar/local/lib/perl5/x86_64-linux /home/akipaka/Work/Ark-Advent-Calendar/local/lib/perl5 /home/akipaka/.plenv/versions/5.20.3/lib/perl5/site_perl/5.20.3/x86_64-linux /home/akipaka/.plenv/versions/5.20.3/lib/perl5/site_perl/5.20.3 /home/akipaka/.plenv/versions/5.20.3/lib/perl5/5.20.3/x86_64-linux /home/akipaka/.plenv/versions/5.20.3/lib/perl5/5.20.3 .) at (eval 364) line 3.
+Perhaps the DBD::Mysql perl module hasn't been fully installed,
+or perhaps the capitalisation of 'Mysql' isn't right.
+Available drivers: DBM, ExampleP, File, Gofer, Mem, Proxy, Sponge.
+ at /home/akipaka/Work/Ark-Advent-Calendar/local/lib/perl5/DBIx/Class/Storage/DBI.pm line 1517. at script/dev/deploy.pl line 9
+]777;notify;Command completed;carton exec perl script/dev/deploy.pl]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ yum install perl-DBD-mysql
+読み込んだプラグイン:fastestmirror, langpacks
+このコマンドを実行するには root である必要があります。
+]777;notify;Command completed;yum install perl-DBD-mysql]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ yum install perl-DBD-mysql[1@s[1@u[1@d[1@o[1@ 
+[sudo] akipaka のパスワード:
+読み込んだプラグイン:fastestmirror, langpacks
+Loading mirror speeds from cached hostfile
+ * base: ftp.riken.jp
+ * extras: ftp.riken.jp
+ * updates: ftp.riken.jp
+base                                                                                                                                   | 3.6 kB  00:00:00     
+extras                                                                                                                                 | 2.9 kB  00:00:00     
+updates                                                                                                                                | 2.9 kB  00:00:00     
+依存性の解決をしています
+--> トランザクションの確認を実行しています。
+---> パッケージ perl-DBD-MySQL.x86_64 0:4.023-6.el7 を インストール
+--> 依存性の処理をしています: perl(DBI::Const::GetInfoType) のパッケージ: perl-DBD-MySQL-4.023-6.el7.x86_64
+--> 依存性の処理をしています: perl(DBI) のパッケージ: perl-DBD-MySQL-4.023-6.el7.x86_64
+--> トランザクションの確認を実行しています。
+---> パッケージ perl-DBI.x86_64 0:1.627-4.el7 を インストール
+--> 依存性の処理をしています: perl(RPC::PlServer) >= 0.2001 のパッケージ: perl-DBI-1.627-4.el7.x86_64
+--> 依存性の処理をしています: perl(RPC::PlClient) >= 0.2000 のパッケージ: perl-DBI-1.627-4.el7.x86_64
+--> 依存性の処理をしています: perl(Data::Dumper) のパッケージ: perl-DBI-1.627-4.el7.x86_64
+--> トランザクションの確認を実行しています。
+---> パッケージ perl-Data-Dumper.x86_64 0:2.145-3.el7 を インストール
+---> パッケージ perl-PlRPC.noarch 0:0.2020-14.el7 を インストール
+--> 依存性の処理をしています: perl(Net::Daemon) >= 0.13 のパッケージ: perl-PlRPC-0.2020-14.el7.noarch
+--> 依存性の処理をしています: perl(Net::Daemon::Test) のパッケージ: perl-PlRPC-0.2020-14.el7.noarch
+--> 依存性の処理をしています: perl(Net::Daemon::Log) のパッケージ: perl-PlRPC-0.2020-14.el7.noarch
+--> 依存性の処理をしています: perl(Compress::Zlib) のパッケージ: perl-PlRPC-0.2020-14.el7.noarch
+--> トランザクションの確認を実行しています。
+---> パッケージ perl-IO-Compress.noarch 0:2.061-2.el7 を インストール
+--> 依存性の処理をしています: perl(Compress::Raw::Zlib) >= 2.061 のパッケージ: perl-IO-Compress-2.061-2.el7.noarch
+--> 依存性の処理をしています: perl(Compress::Raw::Bzip2) >= 2.061 のパッケージ: perl-IO-Compress-2.061-2.el7.noarch
+---> パッケージ perl-Net-Daemon.noarch 0:0.48-5.el7 を インストール
+--> トランザクションの確認を実行しています。
+---> パッケージ perl-Compress-Raw-Bzip2.x86_64 0:2.061-3.el7 を インストール
+---> パッケージ perl-Compress-Raw-Zlib.x86_64 1:2.061-4.el7 を インストール
+--> 依存性解決を終了しました。
+
+依存性を解決しました
+
+==============================================================================================================================================================
+ Package                                          アーキテクチャー                バージョン                              リポジトリー                   容量
+==============================================================================================================================================================
+インストール中:
+ perl-DBD-MySQL                                   x86_64                          4.023-6.el7                             base                          140 k
+依存性関連でのインストールをします:
+ perl-Compress-Raw-Bzip2                          x86_64                          2.061-3.el7                             base                           32 k
+ perl-Compress-Raw-Zlib                           x86_64                          1:2.061-4.el7                           base                           57 k
+ perl-DBI                                         x86_64                          1.627-4.el7                             base                          802 k
+ perl-Data-Dumper                                 x86_64                          2.145-3.el7                             base                           47 k
+ perl-IO-Compress                                 noarch                          2.061-2.el7                             base                          260 k
+ perl-Net-Daemon                                  noarch                          0.48-5.el7                              base                           51 k
+ perl-PlRPC                                       noarch                          0.2020-14.el7                           base                           36 k
+
+トランザクションの要約
+==============================================================================================================================================================
+インストール  1 パッケージ (+7 個の依存関係のパッケージ)
+
+総ダウンロード容量: 1.4 M
+インストール容量: 3.5 M
+Is this ok [y/d/N]: y
+Downloading packages:
+(1/8): perl-Compress-Raw-Bzip2-2.061-3.el7.x86_64.rpm                                                                                  |  32 kB  00:00:00     
+(2/8): perl-Compress-Raw-Zlib-2.061-4.el7.x86_64.rpm                                                                                   |  57 kB  00:00:00     
+(3/8): perl-DBD-MySQL-4.023-6.el7.x86_64.rpm                                                                                           | 140 kB  00:00:00     
+(4/8): perl-Data-Dumper-2.145-3.el7.x86_64.rpm                                                                                         |  47 kB  00:00:00     
+(5/8): perl-DBI-1.627-4.el7.x86_64.rpm                                                                                                 | 802 kB  00:00:00     
+(6/8): perl-Net-Daemon-0.48-5.el7.noarch.rpm                                                                                           |  51 kB  00:00:00     
+(8/8): perl-PlRPC-0.2020-14.el7.noarch.rpm                       97% [====================================================- ]  0.0 B/s | 1.4 MB  --:--:-- ETA (7/8): perl-IO-Compress-2.061-2.el7.noarch.rpm                                                                                         | 260 kB  00:00:00     
+(8/8): perl-PlRPC-0.2020-14.el7.noarch.rpm                                                                                             |  36 kB  00:00:00     
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+合計                                                                                                                          1.5 MB/s | 1.4 MB  00:00:00     
+Running transaction check
+Running transaction test
+Transaction test succeeded
+Running transaction
+  インストール中          : perl-Compress-Raw-Bzip2-2.061-3.el7.x86_64 [                                                                                ] 1/8  インストール中          : perl-Compress-Raw-Bzip2-2.061-3.el7.x86_64 [##############                                                                  ] 1/8  インストール中          : perl-Compress-Raw-Bzip2-2.061-3.el7.x86_64 [###############                                                                 ] 1/8  インストール中          : perl-Compress-Raw-Bzip2-2.061-3.el7.x86_64 [##########################################################                      ] 1/8  インストール中          : perl-Compress-Raw-Bzip2-2.061-3.el7.x86_64 [###########################################################                     ] 1/8  インストール中          : perl-Compress-Raw-Bzip2-2.061-3.el7.x86_64 [################################################################                ] 1/8  インストール中          : perl-Compress-Raw-Bzip2-2.061-3.el7.x86_64 [########################################################################        ] 1/8  インストール中          : perl-Compress-Raw-Bzip2-2.061-3.el7.x86_64 [############################################################################### ] 1/8  インストール中          : perl-Compress-Raw-Bzip2-2.061-3.el7.x86_64                                                                                    1/8 
+  インストール中          : 1:perl-Compress-Raw-Zlib-2.061-4.el7.x86_64 [                                                                               ] 2/8  インストール中          : 1:perl-Compress-Raw-Zlib-2.061-4.el7.x86_64 [##########################                                                     ] 2/8  インストール中          : 1:perl-Compress-Raw-Zlib-2.061-4.el7.x86_64 [############################################################                   ] 2/8  インストール中          : 1:perl-Compress-Raw-Zlib-2.061-4.el7.x86_64 [#################################################################              ] 2/8  インストール中          : 1:perl-Compress-Raw-Zlib-2.061-4.el7.x86_64 [########################################################################       ] 2/8  インストール中          : 1:perl-Compress-Raw-Zlib-2.061-4.el7.x86_64 [############################################################################## ] 2/8  インストール中          : 1:perl-Compress-Raw-Zlib-2.061-4.el7.x86_64                                                                                   2/8 
+  インストール中          : perl-IO-Compress-2.061-2.el7.noarch [                                                                                       ] 3/8  インストール中          : perl-IO-Compress-2.061-2.el7.noarch [####                                                                                   ] 3/8  インストール中          : perl-IO-Compress-2.061-2.el7.noarch [########                                                                               ] 3/8  インストール中          : perl-IO-Compress-2.061-2.el7.noarch [#########                                                                              ] 3/8  インストール中          : perl-IO-Compress-2.061-2.el7.noarch [##########                                                                             ] 3/8  インストール中          : perl-IO-Compress-2.061-2.el7.noarch [###########                                                                            ] 3/8  インストール中          : perl-IO-Compress-2.061-2.el7.noarch [############                                                                           ] 3/8  インストール中          : perl-IO-Compress-2.061-2.el7.noarch [#############                                                                          ] 3/8  インストール中          : perl-IO-Compress-2.061-2.el7.noarch [##############                                                                         ] 3/8  インストール中          : perl-IO-Compress-2.061-2.el7.noarch [###############                                                                        ] 3/8  インストール中          : perl-IO-Compress-2.061-2.el7.noarch [################                                                                       ] 3/8  インストール中          : perl-IO-Compress-2.061-2.el7.noarch [#################                                                                      ] 3/8  インストール中          : perl-IO-Compress-2.061-2.el7.noarch [###################                                                                    ] 3/8  インストール中          : perl-IO-Compress-2.061-2.el7.noarch [####################                                                                   ] 3/8  インストール中          : perl-IO-Compress-2.061-2.el7.noarch [#####################                                                                  ] 3/8  インストール中          : perl-IO-Compress-2.061-2.el7.noarch [######################                                                                 ] 3/8  インストール中          : perl-IO-Compress-2.061-2.el7.noarch [#######################                                                                ] 3/8  インストール中          : perl-IO-Compress-2.061-2.el7.noarch [########################                                                               ] 3/8  インストール中          : perl-IO-Compress-2.061-2.el7.noarch [#############################                                                          ] 3/8  インストール中          : perl-IO-Compress-2.061-2.el7.noarch [###############################                                                        ] 3/8  インストール中          : perl-IO-Compress-2.061-2.el7.noarch [################################                                                       ] 3/8  インストール中          : perl-IO-Compress-2.061-2.el7.noarch [##################################                                                     ] 3/8  インストール中          : perl-IO-Compress-2.061-2.el7.noarch [####################################                                                   ] 3/8  インストール中          : perl-IO-Compress-2.061-2.el7.noarch [#######################################                                                ] 3/8  インストール中          : perl-IO-Compress-2.061-2.el7.noarch [########################################                                               ] 3/8  インストール中          : perl-IO-Compress-2.061-2.el7.noarch [###########################################                                            ] 3/8  インストール中          : perl-IO-Compress-2.061-2.el7.noarch [##############################################                                         ] 3/8  インストール中          : perl-IO-Compress-2.061-2.el7.noarch [###############################################                                        ] 3/8  インストール中          : perl-IO-Compress-2.061-2.el7.noarch [##################################################                                     ] 3/8  インストール中          : perl-IO-Compress-2.061-2.el7.noarch [########################################################                               ] 3/8  インストール中          : perl-IO-Compress-2.061-2.el7.noarch [#########################################################                              ] 3/8  インストール中          : perl-IO-Compress-2.061-2.el7.noarch [##########################################################                             ] 3/8  インストール中          : perl-IO-Compress-2.061-2.el7.noarch [###########################################################                            ] 3/8  インストール中          : perl-IO-Compress-2.061-2.el7.noarch [#############################################################                          ] 3/8  インストール中          : perl-IO-Compress-2.061-2.el7.noarch [################################################################                       ] 3/8  インストール中          : perl-IO-Compress-2.061-2.el7.noarch [####################################################################                   ] 3/8  インストール中          : perl-IO-Compress-2.061-2.el7.noarch [#######################################################################                ] 3/8  インストール中          : perl-IO-Compress-2.061-2.el7.noarch [##########################################################################             ] 3/8  インストール中          : perl-IO-Compress-2.061-2.el7.noarch [#############################################################################          ] 3/8  インストール中          : perl-IO-Compress-2.061-2.el7.noarch [################################################################################       ] 3/8  インストール中          : perl-IO-Compress-2.061-2.el7.noarch [###################################################################################### ] 3/8  インストール中          : perl-IO-Compress-2.061-2.el7.noarch                                                                                           3/8 
+  インストール中          : perl-Data-Dumper-2.145-3.el7.x86_64 [                                                                                       ] 4/8  インストール中          : perl-Data-Dumper-2.145-3.el7.x86_64 [#####################################                                                  ] 4/8  インストール中          : perl-Data-Dumper-2.145-3.el7.x86_64 [######################################                                                 ] 4/8  インストール中          : perl-Data-Dumper-2.145-3.el7.x86_64 [#####################################################################                  ] 4/8  インストール中          : perl-Data-Dumper-2.145-3.el7.x86_64 [#############################################################################          ] 4/8  インストール中          : perl-Data-Dumper-2.145-3.el7.x86_64 [##############################################################################         ] 4/8  インストール中          : perl-Data-Dumper-2.145-3.el7.x86_64 [###################################################################################### ] 4/8  インストール中          : perl-Data-Dumper-2.145-3.el7.x86_64                                                                                           4/8 
+  インストール中          : perl-Net-Daemon-0.48-5.el7.noarch [                                                                                         ] 5/8  インストール中          : perl-Net-Daemon-0.48-5.el7.noarch [#####                                                                                    ] 5/8  インストール中          : perl-Net-Daemon-0.48-5.el7.noarch [##########                                                                               ] 5/8  インストール中          : perl-Net-Daemon-0.48-5.el7.noarch [#####################                                                                    ] 5/8  インストール中          : perl-Net-Daemon-0.48-5.el7.noarch [###################################                                                      ] 5/8  インストール中          : perl-Net-Daemon-0.48-5.el7.noarch [##########################################                                               ] 5/8  インストール中          : perl-Net-Daemon-0.48-5.el7.noarch [#############################################                                            ] 5/8  インストール中          : perl-Net-Daemon-0.48-5.el7.noarch [################################################                                         ] 5/8  インストール中          : perl-Net-Daemon-0.48-5.el7.noarch [###########################################################################              ] 5/8  インストール中          : perl-Net-Daemon-0.48-5.el7.noarch [################################################################################         ] 5/8  インストール中          : perl-Net-Daemon-0.48-5.el7.noarch [######################################################################################## ] 5/8  インストール中          : perl-Net-Daemon-0.48-5.el7.noarch                                                                                             5/8 
+  インストール中          : perl-PlRPC-0.2020-14.el7.noarch [                                                                                           ] 6/8  インストール中          : perl-PlRPC-0.2020-14.el7.noarch [#####                                                                                      ] 6/8  インストール中          : perl-PlRPC-0.2020-14.el7.noarch [####################                                                                       ] 6/8  インストール中          : perl-PlRPC-0.2020-14.el7.noarch [#######################                                                                    ] 6/8  インストール中          : perl-PlRPC-0.2020-14.el7.noarch [##############################                                                             ] 6/8  インストール中          : perl-PlRPC-0.2020-14.el7.noarch [######################################                                                     ] 6/8  インストール中          : perl-PlRPC-0.2020-14.el7.noarch [#######################################                                                    ] 6/8  インストール中          : perl-PlRPC-0.2020-14.el7.noarch [########################################                                                   ] 6/8  インストール中          : perl-PlRPC-0.2020-14.el7.noarch [#######################################################                                    ] 6/8  インストール中          : perl-PlRPC-0.2020-14.el7.noarch [########################################################                                   ] 6/8  インストール中          : perl-PlRPC-0.2020-14.el7.noarch [#########################################################                                  ] 6/8  インストール中          : perl-PlRPC-0.2020-14.el7.noarch [#################################################################################          ] 6/8  インストール中          : perl-PlRPC-0.2020-14.el7.noarch [########################################################################################## ] 6/8  インストール中          : perl-PlRPC-0.2020-14.el7.noarch                                                                                               6/8 
+  インストール中          : perl-DBI-1.627-4.el7.x86_64 [                                                                                               ] 7/8  インストール中          : perl-DBI-1.627-4.el7.x86_64 [##                                                                                             ] 7/8  インストール中          : perl-DBI-1.627-4.el7.x86_64 [####                                                                                           ] 7/8  インストール中          : perl-DBI-1.627-4.el7.x86_64 [#####                                                                                          ] 7/8  インストール中          : perl-DBI-1.627-4.el7.x86_64 [######                                                                                         ] 7/8  インストール中          : perl-DBI-1.627-4.el7.x86_64 [########                                                                                       ] 7/8  インストール中          : perl-DBI-1.627-4.el7.x86_64 [#########                                                                                      ] 7/8  インストール中          : perl-DBI-1.627-4.el7.x86_64 [##########                                                                                     ] 7/8  インストール中          : perl-DBI-1.627-4.el7.x86_64 [###########                                                                                    ] 7/8  インストール中          : perl-DBI-1.627-4.el7.x86_64 [############                                                                                   ] 7/8  インストール中          : perl-DBI-1.627-4.el7.x86_64 [#############                                                                                  ] 7/8  インストール中          : perl-DBI-1.627-4.el7.x86_64 [################                                                                               ] 7/8  インストール中          : perl-DBI-1.627-4.el7.x86_64 [###################                                                                            ] 7/8  インストール中          : perl-DBI-1.627-4.el7.x86_64 [#####################                                                                          ] 7/8  インストール中          : perl-DBI-1.627-4.el7.x86_64 [#########################                                                                      ] 7/8  インストール中          : perl-DBI-1.627-4.el7.x86_64 [###########################                                                                    ] 7/8  インストール中          : perl-DBI-1.627-4.el7.x86_64 [##############################                                                                 ] 7/8  インストール中          : perl-DBI-1.627-4.el7.x86_64 [#################################                                                              ] 7/8  インストール中          : perl-DBI-1.627-4.el7.x86_64 [####################################                                                           ] 7/8  インストール中          : perl-DBI-1.627-4.el7.x86_64 [#####################################                                                          ] 7/8  インストール中          : perl-DBI-1.627-4.el7.x86_64 [#######################################                                                        ] 7/8  インストール中          : perl-DBI-1.627-4.el7.x86_64 [##########################################                                                     ] 7/8  インストール中          : perl-DBI-1.627-4.el7.x86_64 [###########################################                                                    ] 7/8  インストール中          : perl-DBI-1.627-4.el7.x86_64 [##############################################                                                 ] 7/8  インストール中          : perl-DBI-1.627-4.el7.x86_64 [###############################################                                                ] 7/8  インストール中          : perl-DBI-1.627-4.el7.x86_64 [################################################                                               ] 7/8  インストール中          : perl-DBI-1.627-4.el7.x86_64 [#################################################                                              ] 7/8  インストール中          : perl-DBI-1.627-4.el7.x86_64 [###################################################                                            ] 7/8  インストール中          : perl-DBI-1.627-4.el7.x86_64 [####################################################                                           ] 7/8  インストール中          : perl-DBI-1.627-4.el7.x86_64 [######################################################                                         ] 7/8  インストール中          : perl-DBI-1.627-4.el7.x86_64 [#######################################################                                        ] 7/8  インストール中          : perl-DBI-1.627-4.el7.x86_64 [########################################################                                       ] 7/8  インストール中          : perl-DBI-1.627-4.el7.x86_64 [#########################################################                                      ] 7/8  インストール中          : perl-DBI-1.627-4.el7.x86_64 [##########################################################                                     ] 7/8  インストール中          : perl-DBI-1.627-4.el7.x86_64 [###########################################################                                    ] 7/8  インストール中          : perl-DBI-1.627-4.el7.x86_64 [############################################################                                   ] 7/8  インストール中          : perl-DBI-1.627-4.el7.x86_64 [###############################################################                                ] 7/8  インストール中          : perl-DBI-1.627-4.el7.x86_64 [##################################################################                             ] 7/8  インストール中          : perl-DBI-1.627-4.el7.x86_64 [###################################################################                            ] 7/8  インストール中          : perl-DBI-1.627-4.el7.x86_64 [####################################################################                           ] 7/8  インストール中          : perl-DBI-1.627-4.el7.x86_64 [#####################################################################                          ] 7/8  インストール中          : perl-DBI-1.627-4.el7.x86_64 [########################################################################                       ] 7/8  インストール中          : perl-DBI-1.627-4.el7.x86_64 [###########################################################################                    ] 7/8  インストール中          : perl-DBI-1.627-4.el7.x86_64 [#############################################################################                  ] 7/8  インストール中          : perl-DBI-1.627-4.el7.x86_64 [##############################################################################                 ] 7/8  インストール中          : perl-DBI-1.627-4.el7.x86_64 [###############################################################################                ] 7/8  インストール中          : perl-DBI-1.627-4.el7.x86_64 [################################################################################               ] 7/8  インストール中          : perl-DBI-1.627-4.el7.x86_64 [#################################################################################              ] 7/8  インストール中          : perl-DBI-1.627-4.el7.x86_64 [##################################################################################             ] 7/8  インストール中          : perl-DBI-1.627-4.el7.x86_64 [#####################################################################################          ] 7/8  インストール中          : perl-DBI-1.627-4.el7.x86_64 [######################################################################################         ] 7/8  インストール中          : perl-DBI-1.627-4.el7.x86_64 [#######################################################################################        ] 7/8  インストール中          : perl-DBI-1.627-4.el7.x86_64 [#########################################################################################      ] 7/8  インストール中          : perl-DBI-1.627-4.el7.x86_64 [##########################################################################################     ] 7/8  インストール中          : perl-DBI-1.627-4.el7.x86_64 [###########################################################################################    ] 7/8  インストール中          : perl-DBI-1.627-4.el7.x86_64 [############################################################################################   ] 7/8  インストール中          : perl-DBI-1.627-4.el7.x86_64 [#############################################################################################  ] 7/8  インストール中          : perl-DBI-1.627-4.el7.x86_64 [############################################################################################## ] 7/8  インストール中          : perl-DBI-1.627-4.el7.x86_64                                                                                                   7/8 
+  インストール中          : perl-DBD-MySQL-4.023-6.el7.x86_64 [                                                                                         ] 8/8  インストール中          : perl-DBD-MySQL-4.023-6.el7.x86_64 [################                                                                         ] 8/8  インストール中          : perl-DBD-MySQL-4.023-6.el7.x86_64 [#####################                                                                    ] 8/8  インストール中          : perl-DBD-MySQL-4.023-6.el7.x86_64 [###########################                                                              ] 8/8  インストール中          : perl-DBD-MySQL-4.023-6.el7.x86_64 [############################################                                             ] 8/8  インストール中          : perl-DBD-MySQL-4.023-6.el7.x86_64 [#########################################################                                ] 8/8  インストール中          : perl-DBD-MySQL-4.023-6.el7.x86_64 [##########################################################################               ] 8/8  インストール中          : perl-DBD-MySQL-4.023-6.el7.x86_64 [###########################################################################              ] 8/8  インストール中          : perl-DBD-MySQL-4.023-6.el7.x86_64 [############################################################################             ] 8/8  インストール中          : perl-DBD-MySQL-4.023-6.el7.x86_64 [#############################################################################            ] 8/8  インストール中          : perl-DBD-MySQL-4.023-6.el7.x86_64 [##############################################################################           ] 8/8  インストール中          : perl-DBD-MySQL-4.023-6.el7.x86_64 [###############################################################################          ] 8/8  インストール中          : perl-DBD-MySQL-4.023-6.el7.x86_64 [################################################################################         ] 8/8  インストール中          : perl-DBD-MySQL-4.023-6.el7.x86_64 [#####################################################################################    ] 8/8  インストール中          : perl-DBD-MySQL-4.023-6.el7.x86_64 [######################################################################################## ] 8/8  インストール中          : perl-DBD-MySQL-4.023-6.el7.x86_64                                                                                             8/8 
+  検証中                  : perl-Net-Daemon-0.48-5.el7.noarch                                                                                             1/8 
+  検証中                  : perl-Data-Dumper-2.145-3.el7.x86_64                                                                                           2/8 
+  検証中                  : perl-DBD-MySQL-4.023-6.el7.x86_64                                                                                             3/8 
+  検証中                  : perl-IO-Compress-2.061-2.el7.noarch                                                                                           4/8 
+  検証中                  : 1:perl-Compress-Raw-Zlib-2.061-4.el7.x86_64                                                                                   5/8 
+  検証中                  : perl-DBI-1.627-4.el7.x86_64                                                                                                   6/8 
+  検証中                  : perl-Compress-Raw-Bzip2-2.061-3.el7.x86_64                                                                                    7/8 
+  検証中                  : perl-PlRPC-0.2020-14.el7.noarch                                                                                               8/8 
+
+インストール:
+  perl-DBD-MySQL.x86_64 0:4.023-6.el7                                                                                                                         
+
+依存性関連をインストールしました:
+  perl-Compress-Raw-Bzip2.x86_64 0:2.061-3.el7           perl-Compress-Raw-Zlib.x86_64 1:2.061-4.el7           perl-DBI.x86_64 0:1.627-4.el7                
+  perl-Data-Dumper.x86_64 0:2.145-3.el7                  perl-IO-Compress.noarch 0:2.061-2.el7                 perl-Net-Daemon.noarch 0:0.48-5.el7          
+  perl-PlRPC.noarch 0:0.2020-14.el7                     
+
+完了しました!
+]777;notify;Command completed;sudo yum install perl-DBD-mysql]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;sudo yum install perl-DBD-mysql]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;sudo yum install perl-DBD-mysql]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;sudo yum install perl-DBD-mysql]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;sudo yum install perl-DBD-mysql]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;sudo yum install perl-DBD-mysql]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;sudo yum install perl-DBD-mysql]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;sudo yum install perl-DBD-mysql]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;sudo yum install perl-DBD-mysql]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;sudo yum install perl-DBD-mysql]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;sudo yum install perl-DBD-mysql]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;sudo yum install perl-DBD-mysql]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;sudo yum install perl-DBD-mysql]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;sudo yum install perl-DBD-mysql]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;sudo yum install perl-DBD-mysql]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;sudo yum install perl-DBD-mysql]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;sudo yum install perl-DBD-mysql]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;sudo yum install perl-DBD-mysql]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;sudo yum install perl-DBD-mysql]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;sudo yum install perl-DBD-mysql]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;sudo yum install perl-DBD-mysql]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;sudo yum install perl-DBD-mysql]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;sudo yum install perl-DBD-mysql]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;sudo yum install perl-DBD-mysql]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;sudo yum install perl-DBD-mysql]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;sudo yum install perl-DBD-mysql]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;sudo yum install perl-DBD-mysql]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;sudo yum install perl-DBD-mysql]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;sudo yum install perl-DBD-mysql]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;sudo yum install perl-DBD-mysql]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;sudo yum install perl-DBD-mysql]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;sudo yum install perl-DBD-mysql]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;sudo yum install perl-DBD-mysql]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;sudo yum install perl-DBD-mysql]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;sudo yum install perl-DBD-mysql]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ sudo yum install perl-DBD-mysql[5P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccarton exec perl script/dev/deploy.pl
+DBIx::Class::Storage::DBI::_warn_undetermined_driver(): This version of DBIC does not yet seem to supply a driver for your particular RDBMS and/or connection method ('Mysql'). While we will attempt to continue anyway, the results are likely to be underwhelming. Please upgrade DBIC, and if this message does not go away, file a bugreport including the following info:
+{
+  DBD => "DBD::Mysql",
+  DBD_VER => undef,
+  DBIC_DRIVER => "DBIx::Class::Storage::DBI",
+  DBIC_DSN => "dbi:Mysql:./test.db",
+  DBIC_VER => "0.082841",
+  DBI_VER => "1.643"
+}
+DBIx::Class::Storage::DBI::catch {...} (): DBI Connection failed: install_driver(Mysql) failed: Can't locate DBD/Mysql.pm in @INC (you may need to install the DBD::Mysql module) (@INC contains: lib /home/akipaka/Work/Ark-Advent-Calendar/local/lib/perl5/5.20.3/x86_64-linux /home/akipaka/Work/Ark-Advent-Calendar/local/lib/perl5/5.20.3 /home/akipaka/Work/Ark-Advent-Calendar/local/lib/perl5/x86_64-linux /home/akipaka/Work/Ark-Advent-Calendar/local/lib/perl5 /home/akipaka/.plenv/versions/5.20.3/lib/perl5/site_perl/5.20.3/x86_64-linux /home/akipaka/.plenv/versions/5.20.3/lib/perl5/site_perl/5.20.3 /home/akipaka/.plenv/versions/5.20.3/lib/perl5/5.20.3/x86_64-linux /home/akipaka/.plenv/versions/5.20.3/lib/perl5/5.20.3 .) at (eval 364) line 3.
+Perhaps the DBD::Mysql perl module hasn't been fully installed,
+or perhaps the capitalisation of 'Mysql' isn't right.
+Available drivers: DBM, ExampleP, File, Gofer, Mem, Proxy, Sponge.
+ at /home/akipaka/Work/Ark-Advent-Calendar/local/lib/perl5/DBIx/Class/Storage/DBI.pm line 1517. at script/dev/deploy.pl line 9
+]777;notify;Command completed;carton exec perl script/dev/deploy.pl]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;carton exec perl script/dev/deploy.pl]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;carton exec perl script/dev/deploy.pl]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;carton exec perl script/dev/deploy.pl]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;carton exec perl script/dev/deploy.pl]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;carton exec perl script/dev/deploy.pl]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;carton exec perl script/dev/deploy.pl]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ 
+]777;notify;Command completed;carton exec perl script/dev/deploy.pl]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ cpanm DBD::mysql::INSTALL
+! Finding DBD::mysql::INSTALL on cpanmetadb failed.
+! Finding DBD::mysql::INSTALL () on mirror http://www.cpan.org failed.
+! Couldn't find module or a distribution DBD::mysql::INSTALL
+]777;notify;Command completed;cpanm DBD::mysql::INSTALL]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ cpanm DBD::mysql::INSTALLarton exec perl script/dev/deploy.pl[6Psudo yum install perl-DBD-mysqlcarton exec perl script/dev/deploy.pl[6Psudo yum install perl-DBD-mysql[5P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccarton exec perl script/dev/deploy.pl
+DBIx::Class::Storage::DBI::_warn_undetermined_driver(): This version of DBIC does not yet seem to supply a driver for your particular RDBMS and/or connection method ('Mysql'). While we will attempt to continue anyway, the results are likely to be underwhelming. Please upgrade DBIC, and if this message does not go away, file a bugreport including the following info:
+{
+  DBD => "DBD::Mysql",
+  DBD_VER => undef,
+  DBIC_DRIVER => "DBIx::Class::Storage::DBI",
+  DBIC_DSN => "dbi:Mysql:./test.db",
+  DBIC_VER => "0.082841",
+  DBI_VER => "1.643"
+}
+DBIx::Class::Storage::DBI::catch {...} (): DBI Connection failed: install_driver(Mysql) failed: Can't locate DBD/Mysql.pm in @INC (you may need to install the DBD::Mysql module) (@INC contains: lib /home/akipaka/Work/Ark-Advent-Calendar/local/lib/perl5/5.20.3/x86_64-linux /home/akipaka/Work/Ark-Advent-Calendar/local/lib/perl5/5.20.3 /home/akipaka/Work/Ark-Advent-Calendar/local/lib/perl5/x86_64-linux /home/akipaka/Work/Ark-Advent-Calendar/local/lib/perl5 /home/akipaka/.plenv/versions/5.20.3/lib/perl5/site_perl/5.20.3/x86_64-linux /home/akipaka/.plenv/versions/5.20.3/lib/perl5/site_perl/5.20.3 /home/akipaka/.plenv/versions/5.20.3/lib/perl5/5.20.3/x86_64-linux /home/akipaka/.plenv/versions/5.20.3/lib/perl5/5.20.3 .) at (eval 364) line 3.
+Perhaps the DBD::Mysql perl module hasn't been fully installed,
+or perhaps the capitalisation of 'Mysql' isn't right.
+Available drivers: DBM, ExampleP, File, Gofer, Mem, Proxy, Sponge.
+ at /home/akipaka/Work/Ark-Advent-Calendar/local/lib/perl5/DBIx/Class/Storage/DBI.pm line 1517. at script/dev/deploy.pl line 9
+]777;notify;Command completed;carton exec perl script/dev/deploy.pl]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ cpan DBD::mysql
+
+CPAN.pm requires configuration, but most of it can be done automatically.
+If you answer 'no' below, you will enter an interactive dialog for each
+configuration option instead.
+
+Would you like to configure as much as possible automatically? [yes] y
+CPAN: LWP::UserAgent loaded ok (v6.44)
+Fetching with LWP:
+http://www.cpan.org/authors/01mailrc.txt.gz
+CPAN: YAML loaded ok (v1.30)
+Reading '/home/akipaka/.local/share/.cpan/sources/authors/01mailrc.txt.gz'
+CPAN: Compress::Zlib loaded ok (v2.064)
+............................................................................DONE
+Fetching with LWP:
+http://www.cpan.org/modules/02packages.details.txt.gz
+Reading '/home/akipaka/.local/share/.cpan/sources/modules/02packages.details.txt.gz'
+  Database was generated on Wed, 13 May 2020 05:17:03 GMT
+.............
+  New CPAN.pm version (v2.27) available.
+  [Currently running version is v2.05]
+  You might want to try
+    install CPAN
+    reload cpan
+  to both upgrade CPAN.pm and run the new version without leaving
+  the current session.
+
+
+...............................................................DONE
+Fetching with LWP:
+http://www.cpan.org/modules/03modlist.data.gz
+Reading '/home/akipaka/.local/share/.cpan/sources/modules/03modlist.data.gz'
+DONE
+Writing /home/akipaka/.local/share/.cpan/Metadata
+Running install for module 'DBD::mysql'
+Fetching with LWP:
+http://www.cpan.org/authors/id/D/DV/DVEEDEN/DBD-mysql-4.050.tar.gz
+CPAN: Digest::SHA loaded ok (v5.88)
+Fetching with LWP:
+HASH(0x65e1108)authors/id/D/DV/DVEEDEN/CHECKSUMS
+Fetching with LWP:
+HASH(0x65e1108)authors/id/D/DV/DVEEDEN/CHECKSUMS.gz
+Fetching with LWP:
+http://www.cpan.org/authors/id/D/DV/DVEEDEN/CHECKSUMS
+Checksum for /home/akipaka/.local/share/.cpan/sources/authors/id/D/DV/DVEEDEN/DBD-mysql-4.050.tar.gz ok
+CPAN: Parse::CPAN::Meta loaded ok (v2.150010)
+CPAN: CPAN::Meta loaded ok (v2.150010)
+CPAN: Module::CoreList loaded ok (v5.20150822)
+---- Unsatisfied dependencies detected during ----
+----      DVEEDEN/DBD-mysql-4.050.tar.gz      ----
+    Devel::CheckLib [build_requires]
+Running install for module 'Devel::CheckLib'
+Fetching with LWP:
+http://www.cpan.org/authors/id/M/MA/MATTN/Devel-CheckLib-1.14.tar.gz
+Fetching with LWP:
+HASH(0x6733d98)authors/id/M/MA/MATTN/CHECKSUMS
+Fetching with LWP:
+HASH(0x6733d98)authors/id/M/MA/MATTN/CHECKSUMS.gz
+Fetching with LWP:
+http://www.cpan.org/authors/id/M/MA/MATTN/CHECKSUMS
+Checksum for /home/akipaka/.local/share/.cpan/sources/authors/id/M/MA/MATTN/Devel-CheckLib-1.14.tar.gz ok
+Configuring M/MA/MATTN/Devel-CheckLib-1.14.tar.gz with Makefile.PL
+Checking if your kit is complete...
+Looks good
+Warning: prerequisite Mock::Config 0.02 not found.
+Generating a Unix-style Makefile
+Writing Makefile for Devel::CheckLib
+Writing MYMETA.yml and MYMETA.json
+  MATTN/Devel-CheckLib-1.14.tar.gz
+  /home/akipaka/.plenv/versions/5.20.3/bin/perl5.20.3 Makefile.PL -- OK
+Running make for M/MA/MATTN/Devel-CheckLib-1.14.tar.gz
+---- Unsatisfied dependencies detected during ----
+----     MATTN/Devel-CheckLib-1.14.tar.gz     ----
+    Mock::Config [build_requires]
+Running install for module 'Mock::Config'
+Fetching with LWP:
+http://www.cpan.org/authors/id/R/RU/RURBAN/Mock-Config-0.03.tar.gz
+Fetching with LWP:
+HASH(0x671fcf8)authors/id/R/RU/RURBAN/CHECKSUMS
+Fetching with LWP:
+HASH(0x671fcf8)authors/id/R/RU/RURBAN/CHECKSUMS.gz
+Fetching with LWP:
+http://www.cpan.org/authors/id/R/RU/RURBAN/CHECKSUMS
+Checksum for /home/akipaka/.local/share/.cpan/sources/authors/id/R/RU/RURBAN/Mock-Config-0.03.tar.gz ok
+Configuring R/RU/RURBAN/Mock-Config-0.03.tar.gz with Makefile.PL
+Checking if your kit is complete...
+Looks good
+Generating a Unix-style Makefile
+Writing Makefile for Mock::Config
+Writing MYMETA.yml and MYMETA.json
+  RURBAN/Mock-Config-0.03.tar.gz
+  /home/akipaka/.plenv/versions/5.20.3/bin/perl5.20.3 Makefile.PL -- OK
+Running make for R/RU/RURBAN/Mock-Config-0.03.tar.gz
+cp lib/Mock/Config.pm blib/lib/Mock/Config.pm
+Manifying 1 pod document
+  RURBAN/Mock-Config-0.03.tar.gz
+  /usr/bin/make -- OK
+Running make test
+PERL_DL_NONLAZY=1 "/home/akipaka/.plenv/versions/5.20.3/bin/perl5.20.3" "-MExtUtils::Command::MM" "-MTest::Harness" "-e" "undef *Test::Harness::Switches; test_harness(0, 'blib/lib', 'blib/arch')" t/*.t
+t/0-basic.t ....... t/0-basic.t ....... 1/3 # Testing Mock::Config, Perl 5.020003, Config 5.020003, /home/akipaka/.plenv/versions/5.20.3/bin/perl5.20.3
+                         t/0-basic.t ....... ok
+t/manifest.t ......                          t/manifest.t ...... skipped: requires a git checkout and a unix for git and diff
+t/pod-coverage.t ..                          t/pod-coverage.t .. skipped: Author tests not required for installation
+t/pod.t ...........                          t/pod.t ........... skipped: Author tests not required for installation
+All tests successful.
+Files=4, Tests=3,  1 wallclock secs ( 0.02 usr  0.02 sys +  0.17 cusr  0.06 csys =  0.27 CPU)
+Result: PASS
+  RURBAN/Mock-Config-0.03.tar.gz
+  /usr/bin/make test -- OK
+Running make install
+Manifying 1 pod document
+Installing /home/akipaka/.plenv/versions/5.20.3/lib/perl5/site_perl/5.20.3/Mock/Config.pm
+Installing /home/akipaka/.plenv/versions/5.20.3/man/man3/Mock::Config.3
+Appending installation info to /home/akipaka/.plenv/versions/5.20.3/lib/perl5/5.20.3/x86_64-linux/perllocal.pod
+  RURBAN/Mock-Config-0.03.tar.gz
+  /usr/bin/make install  -- OK
+  MATTN/Devel-CheckLib-1.14.tar.gz
+  Has already been unwrapped into directory /home/akipaka/.local/share/.cpan/build/Devel-CheckLib-1.14-FcCzfm
+  MATTN/Devel-CheckLib-1.14.tar.gz
+  Has already been prepared
+Running make for M/MA/MATTN/Devel-CheckLib-1.14.tar.gz
+cp lib/Devel/CheckLib.pm blib/lib/Devel/CheckLib.pm
+cp bin/use-devel-checklib blib/script/use-devel-checklib
+"/home/akipaka/.plenv/versions/5.20.3/bin/perl5.20.3" -MExtUtils::MY -e 'MY->fixin(shift)' -- blib/script/use-devel-checklib
+Manifying 1 pod document
+Manifying 1 pod document
+  MATTN/Devel-CheckLib-1.14.tar.gz
+  /usr/bin/make -- OK
+Running make test
+PERL_DL_NONLAZY=1 "/home/akipaka/.plenv/versions/5.20.3/bin/perl5.20.3" "-MExtUtils::Command::MM" "-MTest::Harness" "-e" "undef *Test::Harness::Switches; test_harness(0, 'blib/lib', 'blib/arch')" t/*.t
+t/00-load.t ................... t/00-load.t ................... 1/1                                      t/00-load.t ................... ok
+t/analyze-binary.t ............ t/analyze-binary.t ............ 1/? t/analyze-binary.t ............ 2/?                                      t/analyze-binary.t ............ ok
+t/bad-single-word-compiler.t .. t/bad-single-word-compiler.t .. 1/1                                      t/bad-single-word-compiler.t .. ok
+t/cmdline-LIBS-INC.t .......... t/cmdline-LIBS-INC.t .......... 1/3                                      t/cmdline-LIBS-INC.t .......... ok
+t/custom-function.t ........... t/custom-function.t ........... 1/5                                      t/custom-function.t ........... ok
+t/dash-l-libs.t ............... t/dash-l-libs.t ............... 1/1                                      t/dash-l-libs.t ............... ok
+t/exit_with_message.t ......... t/exit_with_message.t ......... 1/1                                      t/exit_with_message.t ......... ok
+t/flags.t ..................... t/flags.t ..................... 1/?                                      t/flags.t ..................... ok
+t/found.t ..................... t/found.t ..................... 1/8 t/found.t ..................... 5/8                                      t/found.t ..................... ok
+t/headers.t ................... t/headers.t ................... 1/5                                      t/headers.t ................... ok
+t/multi-word-compiler.t ....... t/multi-word-compiler.t ....... 1/1                                      t/multi-word-compiler.t ....... ok
+t/not_found.t ................. t/not_found.t ................. 1/12                                        t/not_found.t ................. ok
+All tests successful.
+Files=12, Tests=42,  3 wallclock secs ( 0.05 usr  0.01 sys +  1.73 cusr  1.26 csys =  3.05 CPU)
+Result: PASS
+  MATTN/Devel-CheckLib-1.14.tar.gz
+  /usr/bin/make test -- OK
+Running make install
+Manifying 1 pod document
+Manifying 1 pod document
+Installing /home/akipaka/.plenv/versions/5.20.3/lib/perl5/site_perl/5.20.3/Devel/CheckLib.pm
+Installing /home/akipaka/.plenv/versions/5.20.3/man/man1/use-devel-checklib.1
+Installing /home/akipaka/.plenv/versions/5.20.3/man/man3/Devel::CheckLib.3
+Installing /home/akipaka/.plenv/versions/5.20.3/bin/use-devel-checklib
+Appending installation info to /home/akipaka/.plenv/versions/5.20.3/lib/perl5/5.20.3/x86_64-linux/perllocal.pod
+  MATTN/Devel-CheckLib-1.14.tar.gz
+  /usr/bin/make install  -- OK
+  DVEEDEN/DBD-mysql-4.050.tar.gz
+  Has already been unwrapped into directory /home/akipaka/.local/share/.cpan/build/DBD-mysql-4.050-cZYiMI
+Configuring D/DV/DVEEDEN/DBD-mysql-4.050.tar.gz with Makefile.PL
+Can't exec "mysql_config": そのようなファイルやディレクトリはありません at Makefile.PL line 89.
+
+Cannot find the file 'mysql_config'! Your execution PATH doesn't seem
+not contain the path to mysql_config. Resorting to guessed values!
+
+
+PLEASE NOTE:
+
+For 'make test' to run properly, you must ensure that the
+database user 'akipaka' can connect to your MySQL server
+and has the proper privileges that these tests require such
+as 'drop table', 'create table', 'drop procedure', 'create procedure'
+as well as others.
+
+mysql> grant all privileges on test.* to 'akipaka'@'localhost' identified by 's3kr1t';
+
+You can also optionally set the user to run 'make test' with:
+
+perl Makefile.PL --testuser=username
+
+Can't exec "mysql_config": そのようなファイルやディレクトリはありません at Makefile.PL line 603.
+Can't find mysql_config. Use --mysql_config option to specify where mysql_config is located
+Failed to determine directory of mysql.h. Use
+
+  perl Makefile.PL --cflags=-I<dir>
+
+to set this directory. For details see DBD::mysql::INSTALL,
+section "C Compiler flags" or type
+
+  perl Makefile.PL --help
+Warning: No success on command[/home/akipaka/.plenv/versions/5.20.3/bin/perl5.20.3 Makefile.PL]
+  DVEEDEN/DBD-mysql-4.050.tar.gz
+  /home/akipaka/.plenv/versions/5.20.3/bin/perl5.20.3 Makefile.PL -- NOT OK
+]777;notify;Command completed;cpan DBD::mysql]0;akipaka@localhost:~/Work/Ark-Advent-Calendar]7;file://localhost.localdomain/home/akipaka/Work/Ark-Advent-Calendar[akipaka@localhost Ark-Advent-Calendar]$ cpan DBD::mysqlarton exec perl script/dev/deploy.pl
+DBIx::Class::Storage::DBI::_warn_undetermined_driver(): This version of DBIC does not yet seem to supply a driver for your particular RDBMS and/or connection method ('Mysql'). While we will attempt to continue anyway, the results are likely to be underwhelming. Please upgrade DBIC, and if this message does not go away, file a bugreport including the following info:
+{
+  DBD => "DBD::Mysql",
+  DBD_VER => undef,
+  DBIC_DRIVER => "DBIx::Class::Storage::DBI",
+  DBIC_DSN => "dbi:Mysql:./test.db",
+  DBIC_VER => "0.082841",
+  DBI_VER => "1.643"
+}
+DBIx::Class::Storage::DBI::catch {...} (): DBI Connection failed: install_driver(Mysql) failed: Can't locate DBD/Mysql.pm in @INC (you may need to install the DBD::Mysql module) (@INC contains: lib /home/akipaka/Work/Ark-Advent-Calendar/local/lib/perl5/5.20.3/x86_64-linux /home/akipaka/Work/Ark-Advent-Calendar/local/lib/perl5/5.20.3 /home/akipaka/Work/Ark-Advent-Calendar/local/lib/perl5/x86_64-linux /home/akipaka/Work/Ark-Advent-Calendar/local/lib/perl5 /home/akipaka/.plenv/versions/5.20.3/lib/perl5/site_perl/5.20.3/x86_64-linux /home/akipaka/.plenv/versions/5.20.3/lib/perl5/site_perl/5.20.3 /home/akipaka/.plenv/versions/5.20.3/lib/perl5/5.20.3/x86_64-linux /home/akipaka/.plenv/versions/5.20.3/lib/perl5/5.20.3 .) at (eval 364) line 3.
+Perhaps the DBD::Mysql perl module hasn't been fully installed,
+or perhaps the capitalisation of 'Mysql' isn't right.
+Available drivers: DBM, ExampleP, File, Gofer, Mem, Proxy, Sponge.
+ at /home/akipaka/Work/Ark-Advent-C
