@@ -33,6 +33,9 @@ CREATE TABLE jobeet_job (
   expires_at DATETIME NOT NULL,
   created_at DATETIME NOT NULL,
   updated_at DATETIME NOT NULL,
+  company VARCHAR(255),
+  logo VARCHAR(255),
+  url VARCHAR(255),
   FOREIGN KEY (category_id) REFERENCES jobeet_category(id) ON DELETE CASCADE ON UPDATE CASCADE
 );
 

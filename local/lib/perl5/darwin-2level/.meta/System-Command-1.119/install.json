@@ -1,0 +1,1 @@
+{"pathname":"B/BO/BOOK/System-Command-1.119.tar.gz","name":"System::Command","target":"System::Command","version":1.119,"dist":"System-Command-1.119","provides":{"System::Command":{"file":"lib/System/Command.pm","version":1.119},"System::Command::Reaper":{"version":1.119,"file":"lib/System/Command/Reaper.pm"}}}

@@ -1,10 +1,32 @@
-=head2 Wed May 13 04:20:20 2020: C<Module> L<DateTime|DateTime>
+=head2 Thu May 14 07:39:52 2020: C<Module> L<Sub::Identify|Sub::Identify>
 
 =over 4
 
 =item *
 
-C<installed into: /home/akipaka/Work/Ark-Advent-Calendar/local/lib/perl5>
+C<installed into: /home/akipaka/Work/Ark-Advent-Calender/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.14>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu May 14 07:39:54 2020: C<Module> L<DateTime|DateTime>
+
+=over 4
+
+=item *
+
+C<installed into: /home/akipaka/Work/Ark-Advent-Calender/local/lib/perl5>
 
 =item *
 
@@ -13,6 +35,50 @@ C<LINKTYPE: dynamic>
 =item *
 
 C<VERSION: 1.52>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu May 14 07:39:55 2020: C<Module> L<version|version>
+
+=over 4
+
+=item *
+
+C<installed into: /home/akipaka/Work/Ark-Advent-Calender/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.9924>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu May 14 07:39:59 2020: C<Module> L<Devel::PPPort|Devel::PPPort>
+
+=over 4
+
+=item *
+
+C<installed into: /home/akipaka/Work/Ark-Advent-Calender/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 3.58>
 
 =item *
 

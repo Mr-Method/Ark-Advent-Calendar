@@ -39,3 +39,65 @@ DISTRIBUTIONS
       strict 0
       warnings 0
       warnings::register 0
+  Devel-PPPort-3.58
+    pathname: A/AT/ATOOMIC/Devel-PPPort-3.58.tar.gz
+    provides:
+      Devel::PPPort 3.58
+    requirements:
+      ExtUtils::MakeMaker 0
+      FindBin 0
+  Mouse-v2.5.10
+    pathname: S/SK/SKAJI/Mouse-v2.5.10.tar.gz
+    provides:
+      Mouse v2.5.10
+      Mouse::Exporter undef
+      Mouse::Meta::Attribute undef
+      Mouse::Meta::Class undef
+      Mouse::Meta::Method undef
+      Mouse::Meta::Method::Accessor undef
+      Mouse::Meta::Method::Constructor undef
+      Mouse::Meta::Method::Delegation undef
+      Mouse::Meta::Method::Destructor undef
+      Mouse::Meta::Module undef
+      Mouse::Meta::Role undef
+      Mouse::Meta::Role::Application undef
+      Mouse::Meta::Role::Application::RoleSummation undef
+      Mouse::Meta::Role::Composite undef
+      Mouse::Meta::Role::Method undef
+      Mouse::Meta::TypeConstraint undef
+      Mouse::Object undef
+      Mouse::PurePerl undef
+      Mouse::Role v2.5.10
+      Mouse::Spec v2.5.10
+      Mouse::TypeRegistry undef
+      Mouse::Util v2.5.10
+      Mouse::Util::MetaRole undef
+      Mouse::Util::TypeConstraints undef
+      Squirrel undef
+      Squirrel::Role undef
+      Test::Mouse undef
+      ouse undef
+    requirements:
+      ExtUtils::CBuilder 0
+      Module::Build 0.4005
+      Module::Build::XSUtil 0.19
+      Scalar::Util 1.14
+      XSLoader 0.02
+      perl 5.008005
+  Sub-Identify-0.14
+    pathname: R/RG/RGARCIA/Sub-Identify-0.14.tar.gz
+    provides:
+      Sub::Identify 0.14
+    requirements:
+      ExtUtils::MakeMaker 0
+      Test::More 0
+  version-0.9924
+    pathname: J/JP/JPEACOCK/version-0.9924.tar.gz
+    provides:
+      version 0.9924
+      version::regex 0.9924
+      version::vpp 0.9924
+      version::vxs 0.9924
+    requirements:
+      ExtUtils::MakeMaker 0
+      perl 5.006002

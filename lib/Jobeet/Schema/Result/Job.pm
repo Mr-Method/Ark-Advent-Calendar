@@ -83,6 +83,21 @@ __PACKAGE__->add_columns(
         is_nullable => 0,
         timezone    => Jobeet::Schema->TZ,
     },
+    company => {
+        data_type   => 'VARCHAR',
+        size        => 255,
+        is_nullable => 1,
+    },
+    logo => {
+        data_type   => 'VARCHAR',
+        size        => 255,
+        is_nullable => 1,
+    },
+    url => {
+        data_type   => 'VARCHAR',
+        size        => 255,
+        is_nullable => 1,
+    },
 );
 
 __PACKAGE__->set_primary_key('id');

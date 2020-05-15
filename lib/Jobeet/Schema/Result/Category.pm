@@ -39,4 +39,13 @@ __PACKAGE__->has_many(
     },
 );
 
+sub get_active_jobs {
+    my $self = shift;
+
+    $self->jobs(
+        { expires_at => { '>=', models('Schema')->now } },
+        { order_by => { -desc => 'created_at' } }
+    );
+}
+
 1;
