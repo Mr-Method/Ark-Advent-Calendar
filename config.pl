@@ -1,4 +1,4 @@
-Smy $home = Jobeet::Models->get('home');
+$home = Jobeet::Models->get('home');
 
 return {
 
