@@ -6,8 +6,6 @@ our $VERSION = '0.01';
 
 __PACKAGE__->meta->make_immutable;
 
-__END__
-
 =head1 NAME
 
 Jobeet -
@@ -34,3 +32,5 @@ it under the same terms as Perl itself.
 =cut
 
 use_model 'Jobeet::Models';
+
+__END__

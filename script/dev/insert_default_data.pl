@@ -41,7 +41,7 @@ $design_category->add_to_jobs({
     position     => 'Web Designer',
     location     => 'Paris, France',
     description  => q[Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Utenim ad minim veniam, quis nostrud exercitation ullamco laborisnisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in. Voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpaqui officia deserunt mollit anim id est laborum.],
-  how_to_apply   => 'Send your resume to fabien.potencier [at] sensio.com',
+    how_to_apply   => 'Send your resume to fabien.potencier [at] sensio.com',
     is_public    => 1,
     is_activated => 1,
     token        => 'job_extreme_sensio',
